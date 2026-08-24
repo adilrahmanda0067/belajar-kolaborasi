@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-commit kedua (belajar squashing and merge)
+commit ketiga (belajar squashing and merge)
